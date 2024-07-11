@@ -20,7 +20,7 @@ The data collection phase of this project was a collaborative effort involving m
 
 ### Data Sources Identification
 
-- **Team Members Involved:** [Ahmad Mohsen](https://github.com/Ahmed-Mohsen-2005) , reem , ibrahim , omar , jana 
+- **Team Members Involved:** [Ahmad Mohsen](https://github.com/Ahmed-Mohsen-2005) , [Reem Ehab](https://github.com/ReemEhab21) , [Jana Ahmed](https://github.com/Jana-Ahmed-2005) , [Omer Ayman](https://github.com/omark101) , [Ibrahim Radwan](https://github.com/iburahiiimu18) 
 - **Tasks:** 
   - Identified relevant data sources such as manufacturer websites, trusted information websites , car specification databases, and automotive forums.
   - Assessed the credibility and reliability of each source to ensure high-quality data collection.
