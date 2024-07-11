@@ -27,7 +27,7 @@ The data collection phase of this project was a collaborative effort involving m
 
 ### Data Scraping and Extraction
 
-- **Team Members Involved:** Ahmad, Reem, Ibrahim, Omar, Jana
+- **Team Members Involved:** [Ahmad Mohsen](https://github.com/Ahmed-Mohsen-2005) , [Reem Ehab](https://github.com/ReemEhab21) , [Jana Ahmed](https://github.com/Jana-Ahmed-2005) , [Omer Ayman](https://github.com/omark101) , [Ibrahim Radwan](https://github.com/iburahiiimu18)
 - **Tasks:**
   - Developed and implemented web scraping scripts using `BeautifulSoup` , `requests` and `pandas`.
   - Extracted key specifications and performance metrics for thousands of car models.
@@ -42,7 +42,7 @@ The data collection phase of this project was a collaborative effort involving m
 
 ### Data Cleaning and Validation
 
-- **Team Members Involved:** Ahmad, Reem, Ibrahim, Omar, Jana
+- **Team Members Involved:** [Ahmad Mohsen](https://github.com/Ahmed-Mohsen-2005) , [Reem Ehab](https://github.com/ReemEhab21) , [Jana Ahmed](https://github.com/Jana-Ahmed-2005) , [Omer Ayman](https://github.com/omark101) , [Ibrahim Radwan](https://github.com/iburahiiimu18)
 - **Tasks:**
   - As a first step in our dataset, we ensured filling out empty values with `N/A`.
   - Validated data by cross-referencing with multiple sources and rectifying discrepancies.
@@ -52,13 +52,13 @@ The data collection phase of this project was a collaborative effort involving m
 
 ### Data Integration
 
-- **Team Members Involved:** Ahmad , reem , ibrahim , omar , jana 
+- **Team Members Involved:** [Ahmad Mohsen](https://github.com/Ahmed-Mohsen-2005) , [Reem Ehab](https://github.com/ReemEhab21) , [Jana Ahmed](https://github.com/Jana-Ahmed-2005) , [Omer Ayman](https://github.com/omark101) , [Ibrahim Radwan](https://github.com/iburahiiimu18)
 - **Tasks:**
   - Integrated data from different sources into a centralized datasets.
 
 ### Documentation and Reporting
 
-- **Team Members Involved:** Ahmad , reem , ibrahim , omar , jana 
+- **Team Members Involved:** [Ahmad Mohsen](https://github.com/Ahmed-Mohsen-2005) , [Reem Ehab](https://github.com/ReemEhab21) , [Jana Ahmed](https://github.com/Jana-Ahmed-2005) , [Omer Ayman](https://github.com/omark101) , [Ibrahim Radwan](https://github.com/iburahiiimu18) 
 - **Tasks:**
   - Documented the data collection process, including methodologies, challenges, and solutions.
   - Prepared detailed reports and visualizations to summarize the collected data and highlight key insights.
