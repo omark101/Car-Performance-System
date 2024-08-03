@@ -2,6 +2,12 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import csv
+
+#website = "      "
+csv_file_path = "         "  # the path where you want to create the file
+
+
+
 params = {
     "q" : "belt or chain",
     'api_key':"      "
@@ -13,7 +19,6 @@ all_data = []
 belt_or_chain_list=[]
 replacement = []
 interfernce = []
-#website = "      "
 html = requests.get(website, params=params)
 soup = BeautifulSoup(html.text, 'html.parser')
 results = soup.find_all('a', class_='is-size-5')
@@ -76,5 +81,4 @@ data = {
 }
 df = pd.DataFrame(data)
 print(df)
-csv_file_path = "carspecs_belt_or_chain.csv"
 df.to_csv(csv_file_path, index=False)
