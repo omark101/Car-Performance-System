@@ -3,14 +3,14 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import csv
 
-#website = "      "
-csv_file_path = "         "  # the path where you want to create the file
+website = ""
+csv_file_path = ""  # the path where you want to create the file
 
 
 
 params = {
     "q" : "belt or chain",
-    'api_key':"      "
+    'api_key': ""
 }
 belt_or_chain_model_list = []
 years=[]
